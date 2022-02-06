@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<title>All About Dogs</title>
+<meta charset="utf-8">
+<nav>
+<a href= "assignment.html">Home</a>
+<a href= "Dog.html">Dog Picture</a>
+<a href= "Dog_video.html">Dog Video</a>
+</head>
+<body>
+<h1> Bill, Bob and Glenn the Labrador Men</h1>
+<p>Labradors of different shapes and sizes</p></body>
+<p><h1> Dogs of Cumbria</h1> </p>
+<main>Made up information about the Labradors could be inputted here</main>
+<a href="https://www.akc.org/wp-content/uploads/2017/09/Two-Labrador-retrievers-swimming-in-water-fetching-a-stick-together.jpg">Swimming Dogs </a>
+
+<p><h3> Nothing further to add! </h3> </p>
+<a href="Labrador_491912561-800x600.html">Labrador Trio</a>
+<footer> Created 2022 </footer>
+</html>

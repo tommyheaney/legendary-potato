@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<title>All About Dogs</title>
+<meta charset="utf-8">
+<nav>
+<a href= "assignment.html">Home</a>
+<a href= "Dog.html">Dog Picture</a>
+<a href= "Dog_video.html">Dog Video</a>
+</head>
+<body>
+<h1> Bill, Bob and Glenn the Labrador Men</h1>
+<p>Labradors of different shapes and sizes</p></body>
+<p><h1> Dogs</h1> </p>
+<main>I couldn't find a Dog video I liked so heres a video from Hoovie from Hoovies Garage</main>
+ <iframe width="420" height="315"
+src="https://youtu.be/pCEg_90akok">
+</iframe> 
+<p><h3> Nothing further to add! </h3> </p>
+<br>
+<br>
+<br>
+
+<blockquote cite="https://datatracker.ietf.org/doc/html/rfc1149">
+  <p>Avian carriers can provide high delay, low
+  throughput, and low altitude service. The
+  connection topology is limited to a single
+  point-to-point path for each carrier, used with
+  standard carriers, but many carriers can be used
+  without significant interference with each other,
+  outside of early spring. This is because of the 3D
+  ether space available to the carriers, in contrast
+  to the 1D ether used by IEEE802.3. The carriers
+  have an intrinsic collision avoidance system, which
+  increases availability.</p>
+</blockquote>
+
+
+<br>
+<br>
+<br>
+
+<footer> Created 2022 </footer>
+</html>
